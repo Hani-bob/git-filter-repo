@@ -37,7 +37,7 @@ history rewriting tools](contrib/filter-repo-demos).
 # Prerequisites
 
 filter-repo requires:
-
+README.md
   * git >= 2.36.0
   * python3 >= 3.6
 
